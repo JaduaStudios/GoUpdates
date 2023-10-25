@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<updates>
+  <update type="minor" displayVersion="0.0.8-1" appVersion="0.0.8-1" platformVersion="119.0" buildID="20231025100159">
+    <patch type="complete" URL="https://github.com/JaduaStudios/JaduaGoBrowser/releases/download/0.0.8-1/windows.mar" hashFunction="sha512" hashValue="1a048fdd5c69d5fba8321b18d14ce8d60dfe2cb8ff8688fd0aa8fca01bf676a92674e00ae1f4ad78c24b240d308130ed59c853a4ace819748bf9493db2810294" size="66495073"/>
+  </update>
+</updates>

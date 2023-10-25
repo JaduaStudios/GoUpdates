@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<updates>
+  <update type="minor" displayVersion="0.0.8-1" appVersion="0.0.8-1" platformVersion="119.0" buildID="20231025072947">
+    <patch type="complete" URL="https://github.com/JaduaStudios/JaduaGoBrowser/releases/download/0.0.8-1/linux.mar" hashFunction="sha512" hashValue="eed3286bdc4789269c13cdc57739924868922ce10d17b6a915321a3a872d18b1f1eddb97393c55199c709b904fd49c50f074e94ec3918800a33a5a8cb94704c9" size="67150330"/>
+  </update>
+</updates>

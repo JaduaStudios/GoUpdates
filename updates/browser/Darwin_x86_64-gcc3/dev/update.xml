@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<updates>
+  <update type="minor" displayVersion="0.0.8-1" appVersion="0.0.8-1" platformVersion="119.0" buildID="20231025074417">
+    <patch type="complete" URL="https://github.com/JaduaStudios/JaduaGoBrowser/releases/download/0.0.8-1/macosIntel.mar" hashFunction="sha512" hashValue="15119617e1a413e144fc31260a838a082c9b85830f556d93a60ef533ed0ccacc95bb84a5815cdc8b5e4b381a15c719043179c2cca7cb301325ff38983127411a" size="64454095"/>
+  </update>
+</updates>
