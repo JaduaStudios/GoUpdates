@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <updates>
-  <update type="minor" displayVersion="0.1.1-0" appVersion="0.1.1-0" platformVersion="119.0" buildID="20231026002027">
-    <patch type="complete" URL="https://github.com/JaduaStudios/JaduaGoBrowser/releases/download/0.1.1-0/windows.mar" hashFunction="sha512" hashValue="3106c4de3dbbc21bb4a3367f9dca328af4fdb452708449c320ec4465a23e85d9f918951d6e41edaa78bece2ef999e3835f8b0b65d40d82f5d780c1e8a4a1a2e9" size="66503521"/>
+  <update type="minor" displayVersion="0.1.1-6" appVersion="0.1.1-6" platformVersion="119.0.1" buildID="20231109041150">
+    <patch type="complete" URL="https://github.com/JaduaStudios/JaduaGoBrowser/releases/download/0.1.1-6/windows.mar" hashFunction="sha512" hashValue="3d3c8917003b94a1cb7867895fa70f65fc603a226d6e3b1611185995951ffd4fdc1938f2a2ea2914152c9c06c5439ac57e69684833a09cabed3ea6a147af4789" size="66496673"/>
   </update>
 </updates>
