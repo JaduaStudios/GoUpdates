@@ -2,6 +2,6 @@
 <updates>
   <addons>
     <addon id="uBlock0@raymondhill.net" URL="https://github.com/gorhill/uBlock/releases/download/1.52.2/uBlock0_1.52.2.firefox.signed.xpi" hashFunction="sha256" hashValue="e8ee3f9d597a6d42db9d73fe87c1d521de340755fd8bfdd69e41623edfe096d6" size="3578876" version="1.52.2"/>
-    <addon id="sidebartabs@browser.fushra.com" URL="https://github.com/pulse-browser/sidebar-tabs/releases/download/v0.4.0/release.zip" hashFunction="sha256" hashValue="3ddc4505de191267d95558dfbb6ebd670c5d93d6961942fe9b1ba04f09685c72" size="10951" version="v0.4.0"/>
+    <addon id="sidebartabs@browser.fushra.com" URL="https://github.com/Jadua1010/sidebar-tabs/releases/download/v0.6.4/release.zip" hashFunction="sha256" hashValue="4458397bc2eb1bb580ed80a6ecf272103ca53b73e27e54f8aaf50b3929bbcd03" size="28073" version="v0.6.4"/>
   </addons>
 </updates>
