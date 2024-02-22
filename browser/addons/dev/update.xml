@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <updates>
   <addons>
-    <addon id="uBlock0@raymondhill.net" URL="https://github.com/gorhill/uBlock/releases/download/1.55.0/uBlock0_1.55.0.firefox.signed.xpi" hashFunction="sha256" hashValue="a02ca1d32737c3437f97553e5caaead6479a66ac1f8ff3b84a06cfa6bb0c7647" size="3647341" version="1.55.0"/>
+    <addon id="uBlock0@raymondhill.net" URL="https://github.com/gorhill/uBlock/releases/download/1.56.0/uBlock0_1.56.0.firefox.signed.xpi" hashFunction="sha256" hashValue="f5fbeeac511ca4e10a74723413727fda8e6f9236c726d16eb54ade1fbe7be5be" size="3819727" version="1.56.0"/>
     <addon id="sidebartabs@browser.fushra.com" URL="https://github.com/Jadua1010/sidebar-tabs/releases/download/v0.6.5/release.xpi" hashFunction="sha256" hashValue="677891e44ce0a444751d528f949ff1f64a3e0e9dec3af8bab14bb0164c6975e0" size="28073" version="v0.6.5"/>
     <addon id="gopanic@jaduastudios.com" URL="https://github.com/JaduaStudios/GoPanic/releases/download/v0.1.1/release.xpi" hashFunction="sha256" hashValue="fd57bf567c702af66b613f85f3fdea653be1a760029671d47021c246d3bcbdb0" size="29276" version="v0.1.1"/>
     <addon id="bettertyping@jaduastudios.com" URL="https://github.com/JaduaStudios/BetterTyping/releases/download/v0.1.2/release.xpi" hashFunction="sha256" hashValue="4b06775d9638bf27eb1a5419e4891ff4bc9c016a088485617abe3878b5b919db" size="329778" version="v0.1.2"/>
