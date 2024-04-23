@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <updates>
-  <update type="minor" displayVersion="0.4.0-4" appVersion="0.4.0-4" platformVersion="125.0.1" buildID="20240421001834">
-    <patch type="complete" URL="https://github.com/JaduaStudios/JaduaGoBrowser/releases/download/0.4.0-4/macosIntel.mar" hashFunction="sha512" hashValue="5fddf557c80fac493ef3f7f71f6941ce7aa1cc85493516c07e260c852b17d2ec5482260620e1387bf83db2ece29c6370ef4e6c6cc9e6120f2aaf5f467ce77755" size="82033560"/>
+  <update type="minor" displayVersion="0.4.1-1" appVersion="0.4.1-1" platformVersion="125.0.2" buildID="20240423205623">
+    <patch type="complete" URL="https://github.com/JaduaStudios/JaduaGoBrowser/releases/download/0.4.1-1/macosIntel.mar" hashFunction="sha512" hashValue="cd4bcf1eb9e2d30f4bf72229d481c97dee9e2ea5209b36002b0282141d9d3fd2499959978b56a1d73ea454349368d8381d4ed0d401af7d51ed24d174642960fb" size="83450035"/>
   </update>
 </updates>
