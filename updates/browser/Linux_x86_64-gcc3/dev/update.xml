@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <updates>
-  <update type="minor" displayVersion="0.4.3-2" appVersion="0.4.3-2" platformVersion="125.0.3" buildID="20240430003136">
-    <patch type="complete" URL="https://github.com/JaduaStudios/JaduaGoBrowser/releases/download/0.4.3-2/linux.mar" hashFunction="sha512" hashValue="45599608bcd1af84187fc46e0885112ddabe5786a96a9e65fa9765af6e5a1107b4de13f6f6611a77b8bcd507416752688f4b6e88e7bab30a2196f0b039af1b28" size="89646075"/>
+  <update type="minor" displayVersion="0.4.3-4" appVersion="0.4.3-4" platformVersion="125.0.3" buildID="20240430085430">
+    <patch type="complete" URL="https://github.com/JaduaStudios/JaduaGoBrowser/releases/download/0.4.3-4/linux.mar" hashFunction="sha512" hashValue="e3d6fbf51ae0e5b9128e4aea5b2bdc91a4fc7ed1c506a7d6ed37c5ab9d86bf1341bacd30ec4f38e4ff9d695299150339e2a1ec25e2e1d5d00f0a1ccfb12c24c2" size="87976941"/>
   </update>
 </updates>
