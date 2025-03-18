@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <updates>
-  <update type="minor" displayVersion="0.4.6-1" appVersion="0.4.6-1" platformVersion="128.8.0esr" buildID="20250317163751">
-    <patch type="complete" URL="https://github.com/JaduaStudios/JaduaGoBrowser/releases/download/0.4.6-1/macos.mar" hashFunction="sha512" hashValue="f631eec3c641ebdfe881f6a0615636f2b32b270469b4ec561a4b77084e63585a97fda26dc61ab56ea3675b7c210369e38f0ebf4cd03e01ed6f6152f3a7dcdde9" size="85680014"/>
+  <update type="minor" displayVersion="0.4.6-2" appVersion="0.4.6-2" platformVersion="128.8.0esr" buildID="20250318023106">
+    <patch type="complete" URL="https://github.com/JaduaStudios/JaduaGoBrowser/releases/download/0.4.6-2/macos.mar" hashFunction="sha512" hashValue="5eaf79dd295b1918661f0f1c234b6c239fc30b33ea339dab3cb9e0bcd023c2a6dd6d834dec5314d3ee39e1770c804722ba0b25f7c86c2d64d0d91e5c5cde78f0" size="85680174"/>
   </update>
 </updates>
